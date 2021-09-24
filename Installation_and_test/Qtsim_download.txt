@@ -1,0 +1,1 @@
+QtSim is free software with the link : https://sourceforge.net/projects/spimsimulator/files/QtSpim_9.1.21_Windows.msi/download
